@@ -1,3 +1,9 @@
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=9B0000&center=true&vCenter=true&width=435&lines=*%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7+Hello+there+%CB%99%E1%B5%95%CB%99+%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A*" alt="Typing SVG">
+  </a>
+</div>
+
 ![👋 What's up? I'm Lucas Marques](https://user-images.githubusercontent.com/74038190/212259366-1e33063f-1384-459b-9ea5-8ee5e25b63dc.jpg)
 
 <div id="toc">
@@ -11,7 +17,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in//marquesdiff/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com//marquesdiff/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="lucas.marquesv@ufape.edu.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/marquesdiff/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/marquesdiff/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:lucas.marquesv@ufape.edu.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 I am a Computer Science student at UFAPE, a Federal University in Brazil. Currently focusing on Java and JavaScript.</h3>**
 
@@ -27,13 +33,13 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marquesdiff&theme=shadow_red&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&title_color=ffffff&disable_animations=false&text_bold=false&show=&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&icon_color=ffffff&text_color=ffffff&border_color=ffffff&border_radius=7" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=marquesdiff&theme=shadow-red&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&background=35%2Cc00f00%2Caa8695%2Caf0f00&border=ffffff&ring=ffffff&stroke=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&excludeDaysLabel=ffffff&border_radius=8" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marquesdiff&theme=shadow_red&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&title_color=ffffff&disable_animations=false&text_bold=false&show=&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&icon_color=ffffff&text_color=ffffff&border_radius=7" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=marquesdiff&theme=shadow-red&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&background=35%2Cc00f00%2Caa8695%2Caf0f00&ring=ffffff&stroke=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&excludeDaysLabel=ffffff&border_radius=8" alt="GitHub streak Card" />
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=marquesdiff&theme=transparent&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&title_color=ffffff&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&text_color=ffffff&icon_color=ffffff&border_color=ffffff&border_radius=9" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquesdiff&repo=Arvores-AVL-e-BST-em-Linguagem-C&theme=ambient_gradient&cache_seconds=1800&border_radius=7&show_owner=true&bg_color=35%2Cd00f00%2Caa8695%2Caf0f00&hide_border=false&locale=pt-br&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=marquesdiff&theme=transparent&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&title_color=ffffff&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&text_color=ffffff&icon_color=ffffff&border_color=00000000&border_radius=9" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquesdiff&repo=Arvores-AVL-e-BST-em-Linguagem-C&theme=ambient_gradient&cache_seconds=1800&border_radius=7&show_owner=true&bg_color=35%2Cd00f00%2Caa8695%2Caf0f00&hide_border=false&locale=pt-br&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=00000000" alt="GitHub repo-card Card" />
 </p>
 
  **<h3 align="left">Support Me</h3>**
