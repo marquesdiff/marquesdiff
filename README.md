@@ -1,16 +1,47 @@
-## Hi there 👋
+![👋 What's up? I'm Lucas Marques](https://user-images.githubusercontent.com/74038190/212259366-1e33063f-1384-459b-9ea5-8ee5e25b63dc.jpg)
 
-<!--
-**marquesdiff/marquesdiff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        👋 What's up? I'm Lucas Marques
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-Here are some ideas to get you started:
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://www.linkedin.com/in//marquesdiff/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com//marquesdiff/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="lucas.marquesv@ufape.edu.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **<h3 align="left">🚀 I am a Computer Science student at UFAPE, a Federal University in Brazil. Currently focusing on Java and JavaScript.</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 🌱 I'm currently learning: **📚 Spring**
+- ⚡ Fun fact: **Besides coding, I'm also dabbling in drawing and guitar, though nothing worth showcasing just yet 😅.**
+
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="48" alt="Java" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="48" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marquesdiff&theme=shadow_red&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&title_color=ffffff&disable_animations=false&text_bold=false&show=&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&icon_color=ffffff&text_color=ffffff&border_color=ffffff&border_radius=7" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=marquesdiff&theme=shadow-red&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&background=35%2Cc00f00%2Caa8695%2Caf0f00&border=ffffff&ring=ffffff&stroke=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&excludeDaysLabel=ffffff&border_radius=8" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=marquesdiff&theme=transparent&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&title_color=ffffff&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&text_color=ffffff&icon_color=ffffff&border_color=ffffff&border_radius=9" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquesdiff&repo=Arvores-AVL-e-BST-em-Linguagem-C&theme=ambient_gradient&cache_seconds=1800&border_radius=7&show_owner=true&bg_color=35%2Cd00f00%2Caa8695%2Caf0f00&hide_border=false&locale=pt-br&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="GitHub repo-card Card" />
+</p>
+
+ **<h3 align="left">Support Me</h3>**
+
+<p align="left"><a href="https://ko-fi.com/marquesdiff" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=flat&logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marquesdiff/marquesdiff/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marquesdiff/marquesdiff/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marquesdiff/marquesdiff/output/github-contribution-grid-snake.svg">
+</picture>
