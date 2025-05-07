@@ -43,8 +43,8 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marquesdiff&locale=pt-br&theme=shadow_red&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&title_color=ffffff&disable_animations=false&text_bold=false&show=&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&icon_color=ffffff&text_color=ffffff&border_radius=7" alt="GitHub stats Card" />
-  <img src="https://streak-stats.demolab.com?user=marquesdiff&locale=en&mode=daily&theme=shadow-red&hide_border=false&background=35%2Cc00f00%2Caa8695%2Caf0f00&ring=ffffff&stroke=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&excludeDaysLabel=ffffff&border_radius=8&order=3" alt="streak graph"  />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marquesdiff&locale=pt-br&theme=shadow_red&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&title_color=ffffff&disable_animations=false&text_bold=false&show=&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&icon_color=ffffff&text_color=ffffff&border_radius=7" height="191" alt="GitHub stats Card" />
+  <img src="https://streak-stats.demolab.com?user=marquesdiff&locale=en&mode=daily&theme=shadow-red&hide_border=false&background=35%2Cc00f00%2Caa8695%2Caf0f00&ring=ffffff&stroke=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&excludeDaysLabel=ffffff&border_radius=8&order=3" height="191" alt="streak graph"  />
 </p>
 
 <p align="left">
