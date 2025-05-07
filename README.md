@@ -43,13 +43,13 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marquesdiff&locale=pt-br&theme=shadow_red&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&title_color=ffffff&disable_animations=false&text_bold=false&show=&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&icon_color=ffffff&text_color=ffffff&border_radius=7" height="191" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=marquesdiff&locale=en&mode=daily&theme=shadow-red&hide_border=false&background=35%2Cc00f00%2Caa8695%2Caf0f00&ring=ffffff&stroke=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&excludeDaysLabel=ffffff&border_radius=7" height="191" alt="streak graph"  />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marquesdiff&locale=pt-br&theme=shadow_red&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&title_color=ffffff&disable_animations=false&text_bold=false&show=&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&icon_color=ffffff&text_color=ffffff&border_radius=7" height="200" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=marquesdiff&locale=en&mode=daily&theme=shadow-red&hide_border=false&background=35%2Cc00f00%2Caa8695%2Caf0f00&ring=ffffff&stroke=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&excludeDaysLabel=ffffff&disable_animations=false&border_radius=7" height="200" alt="streak graph"  />
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=marquesdiff&locale=pt-br&theme=transparent&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&title_color=ffffff&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&text_color=ffffff&icon_color=ffffff&border_color=00000000&border_radius=9" height="191" alt="GitHub top-langs Card" />
-  <a href="https://github.com/marquesdiff/Arvore-BST-em-Linguagem-C" target="_blank"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquesdiff&repo=Arvore-BST-em-Linguagem-C&theme=ambient_gradient&cache_seconds=1800&border_radius=7&show_owner=true&bg_color=35%2Cd00f00%2Caa8695%2Caf0f00&hide_border=false&locale=pt-br&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=00000000" height="191" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=marquesdiff&locale=pt-br&theme=transparent&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&title_color=ffffff&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&text_color=ffffff&icon_color=ffffff&border_color=00000000&disable_animations=false&border_radius=9" height="191" alt="GitHub top-langs Card" />
+  <a href="https://github.com/marquesdiff/Arvore-BST-em-Linguagem-C" target="_blank"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquesdiff&repo=Arvore-BST-em-Linguagem-C&theme=ambient_gradient&cache_seconds=1800&border_radius=7&show_owner=true&bg_color=35%2Cd00f00%2Caa8695%2Caf0f00&hide_border=false&locale=pt-br&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=00000000&disable_animations=false" height="191" alt="GitHub repo-card Card" />
 </p>
 
 #
