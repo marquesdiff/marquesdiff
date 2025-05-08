@@ -25,7 +25,7 @@
 **<h3 align="left">Resumão</h3>**
 
 - 🌱 Atualmente estou aprendendo: **📚 C++**
-- ⚡ Curiosidades: **Além de codar, também me aventuro em fazer desenhos e em tocar violão. Mas nada que valha a pena registrar na internet, pelo menos não ainda 😅.**
+- ⚡ Curiosidades: **Além de codar, também me aventuro em fazer desenhos e tocar violão. Mas nada que valha a pena registrar na internet, pelo menos não ainda 😅.**
 
 #
 
