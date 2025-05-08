@@ -44,7 +44,7 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marquesdiff&locale=pt-br&theme=shadow_red&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&title_color=ffffff&disable_animations=false&text_bold=false&show=&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&icon_color=ffffff&text_color=ffffff&border_radius=7" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=marquesdiff&locale=pt-br&theme=transparent&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&title_color=ffffff&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&text_color=ffffff&icon_color=ffffff&border_color=00000000&border_radius=9" height="200" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=marquesdiff&locale=pt-br&theme=transparent&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&title_color=ffffff&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&text_color=ffffff&icon_color=ffffff&border_color=00000000&border_radius=9" alt="GitHub top-langs Card" />
 </p>
 
 <p align="left">
