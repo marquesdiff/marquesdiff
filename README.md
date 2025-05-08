@@ -18,7 +18,7 @@
 
 #
 
- **<h3 align="left">🚀 Sou um desenvolvedor FullStack e estudante de Ciência da Computação na UFAPE. No momento trabalho utilizando Java e JavaScript como linguagens principais.</h3>**
+ **<h3 align="left">🚀 Sou um desenvolvedor FullStack e estudante de Ciência da Computação na UFAPE. No momento trabalho com Java e JavaScript como linguagens principais.</h3>**
 
 #
 
