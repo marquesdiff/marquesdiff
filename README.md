@@ -12,15 +12,15 @@
     <h2><p>👋 Olá! Satisfação, me chamo Lucas Marques</p></h2>
 </div>
 
- **<h3 align="left">🚀 Sou um desenvolvedor FullStack e estudante de Ciência da Computação na UFAPE. No momento trabalho com Java e JavaScript como linguagens principais.</h3>**
+Sou desenvolvedor FullStack e estudante de Ciência da Computação na UFAPE. No momento trabalho com Java e JavaScript como linguagens principais.
 
 #
 
 *<h3 align="left">Curiosidades</h3>*
 
 - 🌱 Atualmente estou aprendendo **📚 C++**
-- ⚡ Além de codar, também me aventuro em fazer desenhos e tocar violão.
-- 💪🏻 Também curto muito praticar esportes, e esporadicamente participo de competições de corrida de rua.
+- 🎶 Além de codar, também me aventuro em fazer desenhos e tocar violão.
+- ⚡ Também curto muito praticar esportes, e esporadicamente participo de competições de corrida de rua.
 
 #
 
