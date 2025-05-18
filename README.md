@@ -1,31 +1,26 @@
-<div align="left">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=9B0000&center=true&vCenter=true&width=435&lines=*%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7+Bem-vindo(a)%CB%99%E1%B5%95%CB%99+%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A*" alt="Typing SVG">
   </a>
 </div>
 
-![👋 What's up? I'm Lucas Marques](https://user-images.githubusercontent.com/74038190/212259366-1e33063f-1384-459b-9ea5-8ee5e25b63dc.jpg)
-
-<div id="toc">
-  <ul align="left" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Ôpa! Satisfação, me chamo Lucas Marques
-      </h1>
-    </summary>
-  </ul>
+<div align="center">
+    <img width="20%" src="https://user-images.githubusercontent.com/74038190/212259366-1e33063f-1384-459b-9ea5-8ee5e25b63dc.jpg">
 </div>
 
-#
+<div align="center">
+    <h2><p>👋 Olá! Satisfação, me chamo Lucas Marques</p></h2>
+</div>
 
  **<h3 align="left">🚀 Sou um desenvolvedor FullStack e estudante de Ciência da Computação na UFAPE. No momento trabalho com Java e JavaScript como linguagens principais.</h3>**
 
 #
 
-**<h3 align="left">Resumão</h3>**
+*<h3 align="left">Curiosidades</h3>*
 
-- 🌱 Atualmente estou aprendendo: **📚 C++**
-- ⚡ Curiosidades: **Além de codar, também me aventuro em fazer desenhos e tocar violão. Mas nada que valha a pena registrar na internet, pelo menos não ainda 😅.**
+- 🌱 Atualmente estou aprendendo **📚 C++**
+- ⚡ Além de codar, também me aventuro em fazer desenhos e tocar violão.
+- 💪🏻 Também curto muito praticar esportes, e esporadicamente participo de competições de corrida de rua.
 
 #
 
