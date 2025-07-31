@@ -20,16 +20,16 @@ Sou desenvolvedor FullStack e estudante de Ciência da Computação na UFAPE. No
 
 *<h3 align="left">Curiosidades</h3>*
 
-- 🌱 Atualmente estou aprendendo **📚 C++**
+- 🌱 Atualmente estou aprendendo **📚 Rust**
 - 🎶 Além de codar, também me aventuro em fazer desenhos e tocar violão.
-- ⚡ Também curto muito praticar esportes, e esporadicamente participo de competições de corrida de rua.
+- ⚡ Também curto praticar esportes, e esporadicamente participo de competições de corrida de rua.
 
 #
 
 <img align="right" alt="" height="190px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 **<h3 align="left">Contatos</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/marquesdiff/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/marquesdiff/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:lucas.marquesv@ufape.edu.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.instagram.com/marquesdiff/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:lucas.marquesv@ufape.edu.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">Stacks</h3>**
 
