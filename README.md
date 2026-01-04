@@ -20,7 +20,7 @@ Sou desenvolvedor FullStack e estudante de Ciência da Computação na UFAPE. No
 
 *<h3 align="left">Curiosidades</h3>*
 
-- 🌱 Atualmente estou aprendendo **📚 Rust**
+- 🌱 Atualmente estou me aprimorando em **📚 Python**
 - 🎶 Além de codar, também me aventuro em fazer desenhos e tocar violão.
 - ⚡ Também curto praticar esportes, e esporadicamente participo de competições de corrida de rua.
 
@@ -42,11 +42,6 @@ Sou desenvolvedor FullStack e estudante de Ciência da Computação na UFAPE. No
 <p align="left">
   <img width="48%" src="https://github-readme-stats-delta-jade-29.vercel.app/api?username=marquesdiff&locale=pt-br&theme=shadow_red&hide_title=false&custom_title=Minhas%20Estatísticas&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&title_color=ffffff&disable_animations=false&text_bold=false&show=&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&icon_color=ffffff&text_color=ffffff&border_radius=7" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-stats-delta-jade-29.vercel.app/api/top-langs?username=marquesdiff&locale=pt-br&theme=transparent&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&title_color=ffffff&bg_color=35%2Cc00f00%2Caa8695%2Caf0f00&text_color=ffffff&icon_color=ffffff&border_color=00000000&border_radius=9" alt="GitHub top-langs Card" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/marquesdiff/Arvore-AVL-em-Linguagem-C" target="_blank"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquesdiff&repo=Arvore-AVL-em-Linguagem-C&theme=ambient_gradient&cache_seconds=1800&border_radius=7&show_owner=true&bg_color=35%2Cd00f00%2Caa8695%2Caf0f00&hide_border=false&locale=pt-br&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=00000000" alt="GitHub repo-card Card" />
-  <a href="https://github.com/marquesdiff/Arvore-BST-em-Linguagem-C" target="_blank"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquesdiff&repo=Arvore-BST-em-Linguagem-C&theme=ambient_gradient&cache_seconds=1800&border_radius=7&show_owner=true&bg_color=35%2Cd00f00%2Caa8695%2Caf0f00&hide_border=false&locale=pt-br&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=00000000" alt="GitHub repo-card Card" />
 </p>
 
 #
